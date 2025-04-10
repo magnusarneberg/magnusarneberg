@@ -1,8 +1,8 @@
 ## Hi you!👋
 
-#### - 🔭 I’m just working.
-#### - 💬 Ask me about what's next.
-#### - ⚡ Fun fact: NaN.
+- 🔭 I’m just working.
+- 💬 Ask me about what's next.
+- ⚡ Fun fact: NaN.
 
 <!--
 **magnusarneberg/magnusarneberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
