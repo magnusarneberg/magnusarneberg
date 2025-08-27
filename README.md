@@ -1,6 +1,6 @@
 ## Hi you!👋
 
-- 🔭 I’m just working.
+- 🔭 I’m jst working.
 - 💬 Ask me about what's next.
 - ⚡ Fun fact: NaN.
 
