@@ -1,6 +1,6 @@
 ## Hi you!👋
 
-- 🔭 I’m JST working.
+- 🔭 I’m JsT working.
 - 💬 Ask me about what's next.
 - ⚡ Fun fact: NaN.
 
